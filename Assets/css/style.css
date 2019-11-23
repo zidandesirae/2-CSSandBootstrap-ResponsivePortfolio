@@ -113,6 +113,13 @@ textarea {
   border: 1px solid #dddddd;
 }
 
+input[type=submit] {
+  padding: 10px 30px;
+  color: #ffffff;
+  cursor: pointer;
+  background: #4aaaa5;
+}
+
 /* footer */
 
 footer {
