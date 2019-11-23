@@ -13,7 +13,7 @@ h1 {
   margin-bottom: 20px;
   padding-bottom: 20px;
   font-size: 30px;
-  line-height: 49px;
+  line-height: 30px;
   border-bottom: 3px solid #dddddd;
   color: #4aaaa5;
 }
@@ -74,24 +74,27 @@ nav a:first-child {
 /* portfolio page */
 
 .work {
-  margin: 20px 0 25px;
+  margin: 20px 0 20px;
 }
 
-.work img {
+.card-img-top {
   width: 100%;
   opacity: 0.8;
-  width: 250px;
-  height: 200px;
-  margin-top: 10px;
+  width: 200px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 42px;
 }
 
 h3 {
-  padding: 15px;
+  padding: 10px;
   font-weight: 300;
   line-height: 30px;
   color: #ffffff;
   background: #4aaaa5;
   font-size: 22px;
+  width: 100%;
+  text-align: center;
 }
 
 /* contact page */
